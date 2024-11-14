@@ -1,0 +1,8 @@
+{
+    "name": "server",
+    "runwar": {
+        "undertowOptions": {
+            "ALLOW_UNESCAPED_CHARACTERS_IN_URL": true
+        }
+    }
+}
